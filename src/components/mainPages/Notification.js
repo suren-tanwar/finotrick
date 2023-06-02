@@ -210,6 +210,7 @@ export class Notification extends Component {
         <span style={{color:"white",fontSize:15,marginLeft:"4%",fontWeight:600}}>Report</span>
         </div>
         
+        
           }
           <a href="/noti"  style={{padding:10,display:"flex",alignItems:"center",marginLeft:"5%",cursor:"pointer",backgroundColor:"#191E39"}}>
           <img src={logo16}/>
