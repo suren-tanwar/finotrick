@@ -5,7 +5,7 @@ import "./signup.css";
 import logo1 from "../asset/images/IIF-logo1.png";
 import logo2 from "../asset/images/IIF-logo2.png";
 import logo3 from "../asset/images/OneInfinity.png";
-
+import logo3 from "../asset/images/OneInfinity.png";
 function SignUp() {
   return (
     <div className="outer-form" style={{paddingBottom:10}}>
